@@ -1,0 +1,1 @@
+[blog_os](https://github.com/phil-opp/blog_os)を参考に、Rust言語でOSを作る
